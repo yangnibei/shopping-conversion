@@ -8,6 +8,11 @@
 
 ![Shopping Conversion: reproducible analysis](analysis.svg)
 
+## Visual guide
+
+- **Left — visitor types:** displays observed session conversion with 95% Wilson intervals and each group's sample size.
+- **Right — traffic categories:** applies the same uncertainty view to the six largest anonymous traffic groups; differences are exploratory associations.
+
 ## Business brief
 
 This public-data case study explores a focused business question using **Wilson confidence intervals, visitor and traffic segmentation**. Read the results alongside their assumptions before acting on them.
@@ -48,4 +53,3 @@ This repository is an educational portfolio case study, not paid client work, em
 - `REPORT.md`: generated findings and decision boundaries.
 - `results.json`: aggregate metrics and source provenance.
 - `analysis.svg`: reproducible figure.
-

@@ -35,37 +35,49 @@
         "TrafficType": 2,
         "sum": 847,
         "count": 3913,
-        "mean": 0.216458
+        "mean": 0.216458,
+        "low": 0.203836,
+        "high": 0.229637
       },
       {
         "TrafficType": 1,
         "sum": 262,
         "count": 2451,
-        "mean": 0.106895
+        "mean": 0.106895,
+        "low": 0.095272,
+        "high": 0.119749
       },
       {
         "TrafficType": 3,
         "sum": 180,
         "count": 2052,
-        "mean": 0.087719
+        "mean": 0.087719,
+        "low": 0.076237,
+        "high": 0.100742
       },
       {
         "TrafficType": 4,
         "sum": 165,
         "count": 1069,
-        "mean": 0.15435
+        "mean": 0.15435,
+        "low": 0.133933,
+        "high": 0.177242
       },
       {
         "TrafficType": 13,
         "sum": 43,
         "count": 738,
-        "mean": 0.058266
+        "mean": 0.058266,
+        "low": 0.043542,
+        "high": 0.077564
       },
       {
         "TrafficType": 10,
         "sum": 90,
         "count": 450,
-        "mean": 0.2
+        "mean": 0.2,
+        "low": 0.165651,
+        "high": 0.239428
       }
     ]
   },
