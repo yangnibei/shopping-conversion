@@ -1,0 +1,80 @@
+{
+  "project": "Shopping Conversion",
+  "metrics": {
+    "sessions": 12330,
+    "purchasing_sessions": 1908,
+    "conversion_rate": 0.154745,
+    "visitor_segments": [
+      {
+        "VisitorType": "Returning_Visitor",
+        "sum": 1470,
+        "count": 10551,
+        "mean": 0.139323,
+        "low": 0.132847,
+        "high": 0.146062
+      },
+      {
+        "VisitorType": "New_Visitor",
+        "sum": 422,
+        "count": 1694,
+        "mean": 0.249115,
+        "low": 0.229102,
+        "high": 0.270263
+      },
+      {
+        "VisitorType": "Other",
+        "sum": 16,
+        "count": 85,
+        "mean": 0.188235,
+        "low": 0.11932,
+        "high": 0.284112
+      }
+    ],
+    "largest_traffic_segments": [
+      {
+        "TrafficType": 2,
+        "sum": 847,
+        "count": 3913,
+        "mean": 0.216458
+      },
+      {
+        "TrafficType": 1,
+        "sum": 262,
+        "count": 2451,
+        "mean": 0.106895
+      },
+      {
+        "TrafficType": 3,
+        "sum": 180,
+        "count": 2052,
+        "mean": 0.087719
+      },
+      {
+        "TrafficType": 4,
+        "sum": 165,
+        "count": 1069,
+        "mean": 0.15435
+      },
+      {
+        "TrafficType": 13,
+        "sum": 43,
+        "count": 738,
+        "mean": 0.058266
+      },
+      {
+        "TrafficType": 10,
+        "sum": 90,
+        "count": 450,
+        "mean": 0.2
+      }
+    ]
+  },
+  "provenance": {
+    "shoppers": {
+      "url": "https://archive.ics.uci.edu/static/public/468/online%2Bshoppers%2Bpurchasing%2Bintention%2Bdataset.zip",
+      "sha256": "2972e6184d3ad7beaaa831d9fc2b059dc3ee29df69d1ec593c466a5cd8485d14",
+      "citation": "Sakar, C. & Kastro, Y. (2018). Online Shoppers Purchasing Intention. https://doi.org/10.24432/C5F88Q",
+      "license": "CC BY 4.0"
+    }
+  }
+}
